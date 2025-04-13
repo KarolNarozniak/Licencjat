@@ -13,9 +13,9 @@ Dane zawierają następujące zmienne:
   - `nr_gosp` - numer gospodarstwa domowego
   - `plec` - płeć respondenta
   - `wiek` - wiek respondenta
-  - `wyksz` - wykształcenie
+  - `wyksz` - wykształcenieś
   - `inwalidztwo` - status niepełnosprawności
-  - `liczba_osob` - liczba osób w gospodarstwie domowym
+  - `liczba_osob` - liczba śosób w gospodarstwie domowym
 
 - **Zmienne ekonomiczne:**
 
