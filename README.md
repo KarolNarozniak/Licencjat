@@ -103,7 +103,7 @@ Projekt dostarcza szczegółowej analizy czynników wpływających na wydatki na
 
 ## Autor
 
-[Imię i Nazwisko]
+Katarzyna Olbryś
 
 ## Licencja
 
